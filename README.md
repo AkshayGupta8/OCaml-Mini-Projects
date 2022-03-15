@@ -1,0 +1,1 @@
+A small project to learn OCaml. Working an exercise on Euler's Fifths and building a simple Sudoku Solver.
